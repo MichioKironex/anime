@@ -1,0 +1,15 @@
+.center {
+    text-align: center;
+}
+.grayback {
+    background-color: dimgray;
+}
+.right {
+    text-align: right;
+}
+.blue {
+    color: #00bfff;
+}
+.bigfont{
+    font-size: 50px;
+}
