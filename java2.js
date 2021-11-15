@@ -1,6 +1,8 @@
 'use strict';
 
-const price = 800;
+let number = 250;
 
-alert(price);
+//number = number + 100;
+number *= 100;
 
+console.log(number);
