@@ -13,3 +13,47 @@
 .bigfont{
     font-size: 50px;
 }
+nav {
+    display: flex;
+}
+nav ul{
+    list-style-type: none;
+}
+nav ul li{
+    display: inline-block;
+}
+.item {
+    display: inline-block;
+    width: 300px;
+    height: 50px;
+    margin: 3px;
+    text-align: center;
+    color: #000;
+    background-color: #afeeee;
+    border-bottom: 5px solid #698aab;
+    border-right: 3px solid #698aab;
+    font-size: 30px;
+}
+.box1{
+    order: 0;
+}
+.box2 {
+    order: 0;
+}
+.box3 {
+    order: 0;
+}
+.box4 {
+    order: 0;
+}
+nav a {
+    text-decoration: none;
+}
+.item:hover {
+    margin-top: 3px;
+    color: #000;
+    background-color: #afeeee;
+    border-bottom: 2px solid #698aab;
+    border-right: 1px solid #698aab;
+    
+}
