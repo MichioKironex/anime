@@ -1,11 +1,19 @@
 .center {
     text-align: center;
 }
-.grayback {
-    background-color: dimgray;
-}
 .right {
     text-align: right;
+}
+.left{
+    text-align: left;
+}
+.title{
+    text-align: left;
+    font-size: 30px;
+    font-family: 'M PLUS Rounded 1c', sans-serif;
+}
+.grayback {
+    background-color: dimgray;
 }
 .blue {
     color: #00bfff;
